@@ -1,6 +1,6 @@
 # About this Terraform code
-With this terraform code you can create Kubernetes cluster and contaniner registry.
-Then you can easily run this Weight Tracker app on the container, with this Azure Devops pipeline:
+With this terraform code you can create Kubernetes cluster and contaniner registry.  
+Then you can easily run the Weight Tracker app on the cluster, with this Azure Devops pipeline: https://github.com/UrielOfir/kubernetes-pipeline
 
 
 ## requirements
